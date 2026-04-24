@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Tran Xuan Viet</string>
+    <string name="job_title">CNTT-K1C</string>
+    <string name="phone_number">+84 387 360 736</string>
+    <string name="social_handle">@tranxuanviet</string>
+    <string name="email_address">tranxuanviet@android.com</string>
+</resources>
